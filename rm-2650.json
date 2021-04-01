@@ -1,0 +1,1619 @@
+{
+    "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations,customfield_23611.properties,customfield_23756.properties,customfield_23757.properties,customfield_14301.properties,customfield_13300.properties",
+    "id": "798641",
+    "self": "https://coupadev.atlassian.net/rest/api/3/issue/798641",
+    "key": "RM-2650",
+    "fields": {
+        "customfield_21400": null,
+        "customfield_19200": null,
+        "customfield_23704": null,
+        "customfield_23706": null,
+        "customfield_23707": null,
+        "customfield_23708": null,
+        "customfield_23709": null,
+        "resolution": null,
+        "customfield_12800": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/11203",
+            "value": "Sev-4",
+            "id": "11203"
+        },
+        "customfield_10500": null,
+        "customfield_12802": null,
+        "customfield_12803": null,
+        "customfield_22601": null,
+        "customfield_20301": null,
+        "customfield_20302": null,
+        "customfield_23710": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/26301",
+            "value": "Core",
+            "id": "26301",
+            "child": {
+                "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/26302",
+                "value": "Enterprise",
+                "id": "26302"
+            }
+        },
+        "customfield_22600": null,
+        "customfield_18100": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/16902",
+            "value": "Task",
+            "id": "16902"
+        },
+        "lastViewed": null,
+        "customfield_20300": null,
+        "customfield_23833": null,
+        "customfield_23713": null,
+        "customfield_23834": null,
+        "customfield_23835": null,
+        "customfield_23836": null,
+        "customfield_23837": null,
+        "customfield_23716": null,
+        "customfield_23838": null,
+        "customfield_23717": null,
+        "customfield_23839": null,
+        "customfield_11700": null,
+        "aggregatetimeoriginalestimate": null,
+        "issuelinks": [],
+        "assignee": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/user?accountId=5f8cf991bd138600692a132b",
+            "accountId": "5f8cf991bd138600692a132b",
+            "emailAddress": "rahul.joshi@coupa.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "24x24": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "16x16": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "32x32": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png"
+            },
+            "displayName": "Rahul Joshi",
+            "active": true,
+            "timeZone": "America/Los_Angeles",
+            "accountType": "atlassian"
+        },
+        "customfield_21503": null,
+        "customfield_21502": null,
+        "customfield_23840": null,
+        "customfield_21501": null,
+        "customfield_23600": null,
+        "customfield_23842": null,
+        "customfield_23843": null,
+        "customfield_23601": null,
+        "customfield_19300": null,
+        "customfield_23602": null,
+        "customfield_23604": "https://github.com/coupa/coupa_development/tree/029_release",
+        "customfield_17000": null,
+        "customfield_12901": null,
+        "customfield_12900": null,
+        "customfield_12903": null,
+        "customfield_12902": null,
+        "customfield_23850": null,
+        "customfield_22701": null,
+        "customfield_20400": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/20502",
+            "value": "3 - Note",
+            "id": "20502"
+        },
+        "customfield_23731": null,
+        "customfield_23732": null,
+        "customfield_23611": null,
+        "customfield_23612": null,
+        "customfield_23733": null,
+        "customfield_23613": null,
+        "customfield_18200": null,
+        "customfield_23734": null,
+        "customfield_23614": null,
+        "customfield_23857": null,
+        "customfield_23615": null,
+        "customfield_23858": null,
+        "customfield_23616": null,
+        "customfield_23738": null,
+        "customfield_23617": null,
+        "subtasks": [],
+        "customfield_23618": null,
+        "customfield_23739": null,
+        "customfield_23619": null,
+        "votes": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/issue/RM-2650/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "customfield_21603": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/25704",
+            "value": "ENG-PMO",
+            "id": "25704"
+        },
+        "customfield_23860": null,
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 20,
+            "total": 0,
+            "worklogs": []
+        },
+        "customfield_23740": null,
+        "customfield_21601": null,
+        "customfield_23620": null,
+        "customfield_23741": null,
+        "customfield_23742": null,
+        "customfield_23863": null,
+        "customfield_21600": null,
+        "customfield_23621": null,
+        "customfield_23622": null,
+        "customfield_23501": null,
+        "customfield_23864": null,
+        "customfield_23743": null,
+        "customfield_23744": null,
+        "customfield_23623": null,
+        "customfield_23502": null,
+        "customfield_23865": null,
+        "issuetype": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/issuetype/13802",
+            "id": "13802",
+            "description": "For tracking the final sign-offs starting with QE and working through all the different groups ending with Release Engineering",
+            "iconUrl": "https://coupadev.atlassian.net/secure/viewavatar?size=medium&avatarId=13911&avatarType=issuetype",
+            "name": "Master Ticket",
+            "subtask": false,
+            "avatarId": 13911
+        },
+        "customfield_23745": null,
+        "customfield_23866": null,
+        "customfield_23503": null,
+        "customfield_23624": null,
+        "customfield_23746": null,
+        "customfield_23504": null,
+        "customfield_19400": null,
+        "customfield_23867": null,
+        "customfield_23747": null,
+        "customfield_23868": null,
+        "customfield_23869": null,
+        "customfield_16013": null,
+        "customfield_23506": null,
+        "customfield_16012": null,
+        "customfield_23507": null,
+        "customfield_17101": null,
+        "customfield_23508": null,
+        "customfield_16011": null,
+        "customfield_23629": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/25810",
+            "value": "To Do",
+            "id": "25810"
+        },
+        "customfield_16010": null,
+        "customfield_23509": null,
+        "customfield_23870": null,
+        "customfield_23871": null,
+        "customfield_23630": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/25817",
+            "value": "To Do",
+            "id": "25817"
+        },
+        "customfield_20501": null,
+        "customfield_23631": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/25824",
+            "value": "To Do",
+            "id": "25824"
+        },
+        "customfield_23752": null,
+        "customfield_23510": null,
+        "customfield_23753": null,
+        "customfield_23632": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/25831",
+            "value": "To Do",
+            "id": "25831"
+        },
+        "customfield_23875": null,
+        "customfield_23633": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/25838",
+            "value": "To Do",
+            "id": "25838"
+        },
+        "customfield_23512": null,
+        "customfield_23754": null,
+        "customfield_20500": null,
+        "customfield_23634": null,
+        "customfield_23513": null,
+        "customfield_23755": null,
+        "customfield_23514": null,
+        "customfield_23756": null,
+        "customfield_23515": null,
+        "customfield_18300": null,
+        "customfield_23757": null,
+        "customfield_23637": null,
+        "customfield_23758": null,
+        "customfield_18301": null,
+        "customfield_23517": null,
+        "customfield_23759": null,
+        "customfield_23638": null,
+        "customfield_16002": null,
+        "customfield_16001": null,
+        "customfield_23518": null,
+        "customfield_16000": null,
+        "customfield_23519": null,
+        "customfield_16006": null,
+        "customfield_16005": null,
+        "customfield_16004": null,
+        "customfield_16003": null,
+        "customfield_18302": null,
+        "customfield_16009": null,
+        "customfield_18303": null,
+        "customfield_18304": null,
+        "customfield_16008": null,
+        "customfield_16007": null,
+        "customfield_21706": null,
+        "customfield_21705": null,
+        "customfield_21704": null,
+        "customfield_23881": null,
+        "customfield_23882": null,
+        "customfield_21702": null,
+        "customfield_23520": null,
+        "customfield_23641": null,
+        "customfield_23762": null,
+        "customfield_23642": null,
+        "customfield_21700": null,
+        "customfield_23763": null,
+        "customfield_23400": null,
+        "customfield_23521": null,
+        "customfield_23522": null,
+        "customfield_23401": null,
+        "customfield_23402": null,
+        "customfield_23523": null,
+        "customfield_23524": null,
+        "customfield_23525": null,
+        "customfield_23526": null,
+        "customfield_23527": null,
+        "customfield_19500": null,
+        "customfield_17201": null,
+        "customfield_23528": null,
+        "customfield_23529": null,
+        "customfield_17200": null,
+        "customfield_17202": null,
+        "timetracking": {},
+        "customfield_10800": null,
+        "customfield_23650": null,
+        "customfield_23651": null,
+        "customfield_23530": null,
+        "customfield_20600": null,
+        "customfield_23652": null,
+        "customfield_23531": null,
+        "customfield_20601": null,
+        "customfield_23532": null,
+        "customfield_23533": null,
+        "customfield_23534": null,
+        "customfield_23535": null,
+        "customfield_23536": null,
+        "customfield_23537": null,
+        "customfield_23538": null,
+        "customfield_23539": null,
+        "customfield_16101": null,
+        "customfield_16100": null,
+        "customfield_16105": null,
+        "customfield_16104": null,
+        "customfield_18401": null,
+        "customfield_18402": null,
+        "environment": null,
+        "duedate": null,
+        "customfield_21803": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/22017",
+            "value": "on",
+            "id": "22017"
+        },
+        "customfield_21802": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/22015",
+            "value": "on",
+            "id": "22015"
+        },
+        "customfield_23540": null,
+        "customfield_21801": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/22009",
+            "value": "on",
+            "id": "22009"
+        },
+        "customfield_23541": null,
+        "customfield_23662": null,
+        "customfield_21800": null,
+        "customfield_23663": null,
+        "customfield_23542": null,
+        "customfield_23664": null,
+        "customfield_23543": null,
+        "customfield_23665": null,
+        "customfield_23545": null,
+        "customfield_23666": null,
+        "customfield_23301": null,
+        "customfield_23300": null,
+        "customfield_21000": null,
+        "customfield_13500": null,
+        "customfield_15800": null,
+        "customfield_14711": null,
+        "customfield_14712": null,
+        "customfield_13502": null,
+        "customfield_14710": null,
+        "customfield_13501": null,
+        "customfield_14704": null,
+        "customfield_14705": null,
+        "customfield_14702": null,
+        "customfield_15912": null,
+        "customfield_15913": null,
+        "customfield_14709": null,
+        "customfield_10109": null,
+        "customfield_12400": null,
+        "customfield_15910": null,
+        "customfield_10100": null,
+        "customfield_14701": null,
+        "customfield_10101": null,
+        "customfield_15911": null,
+        "customfield_10102": null,
+        "customfield_10103": null,
+        "customfield_15903": null,
+        "customfield_15904": null,
+        "customfield_15901": null,
+        "customfield_15902": null,
+        "timeestimate": null,
+        "customfield_15907": null,
+        "customfield_15908": null,
+        "customfield_15905": null,
+        "customfield_15906": null,
+        "customfield_15909": null,
+        "status": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/status/10012",
+            "description": "Upgrade request has been picked up for scheduling the upgrade",
+            "iconUrl": "https://coupadev.atlassian.net/images/icons/subtask.gif",
+            "name": "To Do",
+            "id": "10012",
+            "statusCategory": {
+                "self": "https://coupadev.atlassian.net/rest/api/3/statuscategory/4",
+                "id": 4,
+                "key": "indeterminate",
+                "colorName": "yellow",
+                "name": "In Progress"
+            }
+        },
+        "customfield_21100": null,
+        "customfield_15900": null,
+        "customfield_13600": null,
+        "customfield_12502": null,
+        "customfield_14922": null,
+        "customfield_14923": null,
+        "aggregatetimeestimate": null,
+        "customfield_20008": null,
+        "customfield_20009": null,
+        "customfield_20007": null,
+        "customfield_20005": null,
+        "customfield_20003": null,
+        "customfield_20000": null,
+        "creator": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/user?accountId=5f8cf991bd138600692a132b",
+            "accountId": "5f8cf991bd138600692a132b",
+            "emailAddress": "rahul.joshi@coupa.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "24x24": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "16x16": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "32x32": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png"
+            },
+            "displayName": "Rahul Joshi",
+            "active": true,
+            "timeZone": "America/Los_Angeles",
+            "accountType": "atlassian"
+        },
+        "customfield_20001": null,
+        "customfield_14920": null,
+        "customfield_14800": [
+            {
+                "self": "https://coupadev.atlassian.net/rest/api/3/user?accountId=5f8cf991bd138600692a132b",
+                "accountId": "5f8cf991bd138600692a132b",
+                "emailAddress": "rahul.joshi@coupa.com",
+                "avatarUrls": {
+                    "48x48": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                    "24x24": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                    "16x16": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                    "32x32": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png"
+                },
+                "displayName": "Rahul Joshi",
+                "active": true,
+                "timeZone": "America/Los_Angeles",
+                "accountType": "atlassian"
+            }
+        ],
+        "customfield_14921": null,
+        "customfield_12501": null,
+        "customfield_13702": null,
+        "customfield_14913": null,
+        "customfield_13701": null,
+        "customfield_14911": null,
+        "customfield_14917": null,
+        "customfield_14918": null,
+        "customfield_14915": null,
+        "customfield_14916": null,
+        "customfield_14919": null,
+        "customfield_19000": null,
+        "timespent": null,
+        "customfield_19001": null,
+        "aggregatetimespent": null,
+        "customfield_14910": null,
+        "customfield_13700": null,
+        "customfield_11400": null,
+        "customfield_14902": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/customFieldOption/13103",
+            "value": "Normal",
+            "id": "13103"
+        },
+        "customfield_14900": null,
+        "customfield_14906": null,
+        "customfield_14907": null,
+        "customfield_14904": null,
+        "customfield_14905": null,
+        "workratio": -1,
+        "customfield_14908": null,
+        "customfield_14909": null,
+        "customfield_22402": null,
+        "customfield_22401": null,
+        "customfield_22400": null,
+        "customfield_12600": null,
+        "customfield_10300": null,
+        "customfield_13800": null,
+        "customfield_19101": null,
+        "customfield_19102": null,
+        "customfield_19103": null,
+        "customfield_19104": null,
+        "customfield_19100": null,
+        "customfield_12700": null,
+        "customfield_20200": null,
+        "customfield_18000": null,
+        "customfield_10400": null,
+        "customfield_13900": null,
+        "customfield_17700": null,
+        "customfield_15400": null,
+        "customfield_13100": null,
+        "customfield_16610": null,
+        "customfield_16608": null,
+        "customfield_16607": null,
+        "customfield_16606": null,
+        "customfield_16605": null,
+        "customfield_16609": null,
+        "customfield_18900": null,
+        "customfield_12000": null,
+        "customfield_16600": null,
+        "customfield_18901": null,
+        "customfield_14301": null,
+        "customfield_12001": null,
+        "customfield_16604": null,
+        "customfield_16603": null,
+        "customfield_16602": null,
+        "customfield_16601": null,
+        "labels": [],
+        "components": [
+            {
+                "self": "https://coupadev.atlassian.net/rest/api/3/component/34432",
+                "id": "34432",
+                "name": "Core/Enterprise"
+            }
+        ],
+        "customfield_23000": null,
+        "customfield_13200": null,
+        "customfield_15503": null,
+        "customfield_17802": null,
+        "customfield_15501": null,
+        "customfield_17801": null,
+        "customfield_17800": null,
+        "customfield_15502": null,
+        "customfield_12101": null,
+        "reporter": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/user?accountId=5f8cf991bd138600692a132b",
+            "accountId": "5f8cf991bd138600692a132b",
+            "emailAddress": "rahul.joshi@coupa.com",
+            "avatarUrls": {
+                "48x48": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "24x24": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "16x16": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png",
+                "32x32": "https://secure.gravatar.com/avatar/17f938198008a10ba9e1ba159478b367?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FRJ-0.png"
+            },
+            "displayName": "Rahul Joshi",
+            "active": true,
+            "timeZone": "America/Los_Angeles",
+            "accountType": "atlassian"
+        },
+        "customfield_16703": null,
+        "customfield_16702": null,
+        "customfield_14401": null,
+        "customfield_14402": null,
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_23101": null,
+        "customfield_23100": null,
+        "project": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/project/12400",
+            "id": "12400",
+            "key": "RM",
+            "name": "Dev Release Management",
+            "projectTypeKey": "software",
+            "simplified": false,
+            "avatarUrls": {
+                "48x48": "https://coupadev.atlassian.net/secure/projectavatar?pid=12400&avatarId=11702",
+                "24x24": "https://coupadev.atlassian.net/secure/projectavatar?size=small&s=small&pid=12400&avatarId=11702",
+                "16x16": "https://coupadev.atlassian.net/secure/projectavatar?size=xsmall&s=xsmall&pid=12400&avatarId=11702",
+                "32x32": "https://coupadev.atlassian.net/secure/projectavatar?size=medium&s=medium&pid=12400&avatarId=11702"
+            },
+            "projectCategory": {
+                "self": "https://coupadev.atlassian.net/rest/api/3/projectCategory/10000",
+                "id": "10000",
+                "description": "All projects being worked on by Dev",
+                "name": "CDC"
+            }
+        },
+        "customfield_13300": null,
+        "customfield_17901": null,
+        "customfield_15600": null,
+        "customfield_17900": null,
+        "customfield_16804": null,
+        "customfield_16803": null,
+        "resolutiondate": null,
+        "watches": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/issue/RM-2650/watchers",
+            "watchCount": 2,
+            "isWatching": true
+        },
+        "customfield_22000": null,
+        "customfield_12200": null,
+        "customfield_16801": null,
+        "customfield_14500": null,
+        "customfield_13405": null,
+        "customfield_13404": null,
+        "customfield_13406": null,
+        "updated": "2021-03-08T14:08:40.479-0800",
+        "customfield_23200": null,
+        "timeoriginalestimate": null,
+        "description": {
+            "version": 1,
+            "type": "doc",
+            "content": [
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "In support of release certification, please review, approve, and route this ticket to the next approver.  Thank you."
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "attrs": {
+                        "isNumberColumnEnabled": false,
+                        "layout": "default"
+                    },
+                    "content": [
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableHeader",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Role",
+                                                    "marks": [
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableHeader",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Approver",
+                                                    "marks": [
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "QE"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "mention",
+                                                    "attrs": {
+                                                        "id": "5f8cf991bd138600692a132b",
+                                                        "text": "Rahul Joshi"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "  / "
+                                                },
+                                                {
+                                                    "type": "mention",
+                                                    "attrs": {
+                                                        "id": "5b96965f73130a2b8c663b6d",
+                                                        "text": "Antonio Ardila"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Dev"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Docs"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "mention",
+                                                    "attrs": {
+                                                        "id": "557058:2ff0b75f-4140-4a8b-8bb4-35ef1fc554f8",
+                                                        "text": "Jamie Laframboise"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "PMO"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "paragraph",
+                    "content": [
+                        {
+                            "type": "text",
+                            "text": "Release Details",
+                            "marks": [
+                                {
+                                    "type": "strong"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "table",
+                    "attrs": {
+                        "isNumberColumnEnabled": false,
+                        "layout": "default"
+                    },
+                    "content": [
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableHeader",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Artifact",
+                                                    "marks": [
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableHeader",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Evidence",
+                                                    "marks": [
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "GitHub Tag",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://github.com/coupa/coupa_development/releases"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "(tag on final commit)",
+                                                    "marks": [
+                                                        {
+                                                            "type": "em"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Branch",
+                                                    "marks": [
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "(From GitHub for current release)",
+                                                    "marks": [
+                                                        {
+                                                            "type": "em"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "inlineCard",
+                                                    "attrs": {
+                                                        "url": "https://github.com/coupa/coupa_development/tree/029_release"
+                                                    }
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Commit",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://github.com/coupa/coupa_development/commits/028_release"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "(required in the “Revision” field)",
+                                                    "marks": [
+                                                        {
+                                                            "type": "em"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Github comparisons",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://github.com/coupa/coupa_development/compare/"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "(pulled from Jenkins for Enterprise, manual comparison pulled from GiitHub for Others (e.g. Power Apps, Microservices)",
+                                                    "marks": [
+                                                        {
+                                                            "type": "em"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Y commits with X changed files:"
+                                                },
+                                                {
+                                                    "type": "hardBreak"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "By version tags (previous vs. current): TBC"
+                                                },
+                                                {
+                                                    "type": "hardBreak"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "By commit (previous version vs. current): TBC"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Assets Packaging",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://jenkins-dev.coupadev.com/job/ASSETS/job/dev-deploy-manual/build?delay=0sec"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "on 029_release and current commit"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Delta Diff",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://jenkins-dev.coupadev.com/job/Delta/job/delta/build?delay=0sec"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "(on previous version commit vs. current commit)",
+                                                    "marks": [
+                                                        {
+                                                            "type": "em"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Final Automation",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://teamcity.coupadev.com/viewType.html?buildTypeId=Enterprise_Avalanche_ChromiumRun&tab=buildTypeBranches"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "on 029_release"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Upgrade Test",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://control-next.coupahost.com/requests/new"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "(Minor Upgrade on r29-upgrade-sanity.coupadev.com)",
+                                                    "marks": [
+                                                        {
+                                                            "type": "em"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Gems Build",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://jenkins-platform-qe.coupadev.com/job/OPS/job/dev-boutique-gem-promotion/build?delay=0sec"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Release Details",
+                                                    "marks": [
+                                                        {
+                                                            "type": "link",
+                                                            "attrs": {
+                                                                "href": "https://coupadev.atlassian.net/wiki/spaces/CP/pages/922681821/27.x.x+Releases"
+                                                            }
+                                                        },
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "(link to Confluence content page)",
+                                                    "marks": [
+                                                        {
+                                                            "type": "em"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "tableRow",
+                            "content": [
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "Known Exceptions",
+                                                    "marks": [
+                                                        {
+                                                            "type": "strong"
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": " "
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "(list any dependencies that impact the release that should be explicitly known)",
+                                                    "marks": [
+                                                        {
+                                                            "type": "em"
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "tableCell",
+                                    "attrs": {},
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "content": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "customfield_13401": null,
+        "customfield_13402": null,
+        "customfield_15700": null,
+        "customfield_16903": null,
+        "customfield_16902": null,
+        "summary": "DRAFT: v29.x.x Master Ticket ",
+        "customfield_16901": null,
+        "customfield_14600": null,
+        "comment": {
+            "comments": [],
+            "self": "https://coupadev.atlassian.net/rest/api/3/issue/798641/comment",
+            "maxResults": 0,
+            "total": 0,
+            "startAt": 0
+        },
+        "customfield_23546": null,
+        "customfield_23667": null,
+        "statuscategorychangedate": "2021-03-04T15:03:01.638-0800",
+        "customfield_23668": null,
+        "customfield_23547": null,
+        "customfield_23548": null,
+        "customfield_23549": null,
+        "customfield_15000": null,
+        "customfield_17300": null,
+        "customfield_15001": null,
+        "customfield_17304": null,
+        "customfield_17303": null,
+        "customfield_15002": null,
+        "customfield_17302": null,
+        "customfield_17301": null,
+        "fixVersions": [],
+        "customfield_19600": null,
+        "customfield_17306": null,
+        "customfield_17305": null,
+        "customfield_20705": null,
+        "customfield_20706": null,
+        "customfield_20703": null,
+        "customfield_23550": null,
+        "customfield_23671": null,
+        "customfield_23551": null,
+        "customfield_21912": null,
+        "customfield_20701": null,
+        "customfield_21911": null,
+        "customfield_20702": null,
+        "customfield_23552": null,
+        "customfield_23674": null,
+        "customfield_21910": null,
+        "customfield_23675": null,
+        "customfield_20700": null,
+        "customfield_23554": null,
+        "customfield_23555": null,
+        "customfield_23677": null,
+        "customfield_23678": null,
+        "customfield_23559": null,
+        "customfield_16200": null,
+        "customfield_18500": null,
+        "priority": {
+            "self": "https://coupadev.atlassian.net/rest/api/3/priority/9",
+            "iconUrl": "https://coupadev.atlassian.net/images/icons/priorities/blocker.svg",
+            "name": "P1",
+            "id": "9"
+        },
+        "customfield_21909": null,
+        "customfield_21907": null,
+        "versions": [],
+        "customfield_21906": null,
+        "customfield_21904": null,
+        "customfield_23560": null,
+        "customfield_21903": null,
+        "customfield_23561": null,
+        "customfield_23562": null,
+        "customfield_21900": null,
+        "customfield_23563": null,
+        "customfield_23685": null,
+        "customfield_23564": null,
+        "customfield_23686": null,
+        "customfield_23565": null,
+        "customfield_23687": null,
+        "customfield_23566": null,
+        "customfield_15101": null,
+        "customfield_17400": null,
+        "customfield_19700": null,
+        "customfield_23690": null,
+        "customfield_23571": null,
+        "customfield_23572": null,
+        "customfield_20800": null,
+        "customfield_23574": null,
+        "customfield_23696": null,
+        "customfield_23575": null,
+        "customfield_23576": null,
+        "customfield_23697": null,
+        "customfield_23577": null,
+        "customfield_23698": null,
+        "customfield_23578": null,
+        "customfield_23579": null,
+        "customfield_14000": null,
+        "customfield_15210": null,
+        "customfield_14003": null,
+        "customfield_14004": null,
+        "customfield_15211": null,
+        "customfield_14001": null,
+        "customfield_16301": null,
+        "customfield_14002": null,
+        "customfield_15212": null,
+        "customfield_16300": null,
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_14007": null,
+        "customfield_18600": null,
+        "customfield_18601": null,
+        "customfield_14005": null,
+        "customfield_14006": null,
+        "customfield_18602": null,
+        "customfield_15208": null,
+        "customfield_15209": null,
+        "customfield_23580": null,
+        "customfield_23581": null,
+        "customfield_23582": null,
+        "customfield_23583": null,
+        "customfield_23584": null,
+        "customfield_23586": null,
+        "customfield_23588": null,
+        "customfield_23589": null,
+        "customfield_15202": null,
+        "customfield_15203": null,
+        "customfield_15200": null,
+        "customfield_15201": null,
+        "customfield_15206": null,
+        "customfield_15207": null,
+        "customfield_19800": {
+            "hasEpicLinkFieldDependency": false,
+            "showField": false,
+            "nonEditableReason": {
+                "reason": "EPIC_LINK_SHOULD_BE_USED",
+                "message": "To set an epic as the parent, use the epic link instead"
+            }
+        },
+        "customfield_15204": null,
+        "customfield_23590": null,
+        "customfield_23591": null,
+        "customfield_23592": null,
+        "customfield_23593": null,
+        "customfield_23594": null,
+        "customfield_23595": null,
+        "customfield_20900": null,
+        "customfield_23596": null,
+        "customfield_23597": null,
+        "customfield_23598": null,
+        "customfield_23599": "TBC",
+        "issuerestriction": {
+            "issuerestrictions": {},
+            "shouldDisplay": false
+        },
+        "created": "2021-03-04T15:03:00.545-0800",
+        "customfield_16402": null,
+        "customfield_16401": null,
+        "customfield_16400": null,
+        "customfield_14100": null,
+        "customfield_16404": null,
+        "customfield_18700": null,
+        "customfield_16403": null,
+        "customfield_15301": null,
+        "customfield_15302": null,
+        "customfield_13000": "1|i1cp7j:",
+        "customfield_15300": null,
+        "customfield_13002": null,
+        "customfield_15305": null,
+        "customfield_15303": null,
+        "customfield_17602": null,
+        "customfield_15304": null,
+        "customfield_19900": "{}",
+        "attachment": [],
+        "customfield_16501": null,
+        "customfield_16500": null,
+        "customfield_14200": [],
+        "customfield_18800": null
+    }
+}
