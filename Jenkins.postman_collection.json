@@ -1,0 +1,111 @@
+{
+	"info": {
+		"_postman_id": "1346029c-899e-4ca7-be71-14ee320a4540",
+		"name": "Jenkins",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Delta Diff",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "{{jenkins_token}}",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "rahul.joshi@coupa.com",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://jenkins-dev.coupadev.com/job/Delta/job/delta/buildWithParameters?token={{jenkins_token}}&BASE_BRANCH=8333245809f56c5ce94df766e57f11900d6f4b2c&NEW_BRANCH=&REPOSITORY_NAME={{repo}}&LOCALE=en",
+					"protocol": "https",
+					"host": [
+						"jenkins-dev",
+						"coupadev",
+						"com"
+					],
+					"path": [
+						"job",
+						"Delta",
+						"job",
+						"delta",
+						"buildWithParameters"
+					],
+					"query": [
+						{
+							"key": "token",
+							"value": "{{jenkins_token}}"
+						},
+						{
+							"key": "BASE_BRANCH",
+							"value": "8333245809f56c5ce94df766e57f11900d6f4b2c"
+						},
+						{
+							"key": "NEW_BRANCH",
+							"value": ""
+						},
+						{
+							"key": "REPOSITORY_NAME",
+							"value": "{{repo}}"
+						},
+						{
+							"key": "LOCALE",
+							"value": "en"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Last Build Status",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "{{jenkins_token}}",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "rahul.joshi@coupa.com",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://jenkins-dev.coupadev.com/job/Delta/job/delta/lastBuild/api/json",
+					"protocol": "https",
+					"host": [
+						"jenkins-dev",
+						"coupadev",
+						"com"
+					],
+					"path": [
+						"job",
+						"Delta",
+						"job",
+						"delta",
+						"lastBuild",
+						"api",
+						"json"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
